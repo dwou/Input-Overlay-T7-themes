@@ -1,0 +1,139 @@
+{
+    "default_width": 128,
+    "default_height": 128,
+    "space_h": 3,
+    "space_v": 3,
+    "flags": 0,
+    "overlay_width": 1309,
+    "overlay_height": 523,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                131,
+                0
+            ],
+            "id": "w",
+            "z_level": 0,
+            "mapping": [
+                525,
+                1,
+                128,
+                128
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                65
+            ],
+            "id": "a",
+            "z_level": 0,
+            "mapping": [
+                656,
+                1,
+                128,
+                128
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                131,
+                131
+            ],
+            "id": "s",
+            "z_level": 0,
+            "mapping": [
+                787,
+                1,
+                128,
+                128
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                262,
+                65
+            ],
+            "id": "d",
+            "z_level": 0,
+            "mapping": [
+                918,
+                1,
+                128,
+                128
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                655,
+                0
+            ],
+            "id": "up",
+            "z_level": 0,
+            "mapping": [
+                132,
+                1,
+                128,
+                128
+            ],
+            "code": 57416
+        },
+        {
+            "type": 1,
+            "pos": [
+                524,
+                96
+            ],
+            "id": "left",
+            "z_level": 0,
+            "mapping": [
+                1,
+                1,
+                128,
+                128
+            ],
+            "code": 57419
+        },
+        {
+            "type": 1,
+            "pos": [
+                655,
+                131
+            ],
+            "id": "down",
+            "z_level": 0,
+            "mapping": [
+                263,
+                1,
+                128,
+                128
+            ],
+            "code": 57424
+        },
+        {
+            "type": 1,
+            "pos": [
+                786,
+                96
+            ],
+            "id": "right",
+            "z_level": 0,
+            "mapping": [
+                394,
+                1,
+                128,
+                128
+            ],
+            "code": 57421
+        }
+    ]
+}
