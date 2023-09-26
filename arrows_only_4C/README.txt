@@ -1,1 +1,0 @@
-These are broken, just change the xy offset in (unchanged) arrows_only_arrowkeys
