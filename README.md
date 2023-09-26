@@ -4,7 +4,7 @@ Tekken-themed overlays compatible with univrsal/input-overlay for OBS
 
 ## qwerty4 preset
 
-screenshot at 90% opacity in OBS
+screenshot at 90% opacity in OBS. qwerty5 preset is higher quality but the buttons are comparatively smaller. The fix for this is to use two instances of input-overlay running at once, one for arrows (implemented) and one for buttons (unimplemented but easy fix).
 ![output](https://github.com/dwou/Input-Overlay-for-Tekken-7/assets/111612803/76c9f389-3925-44ab-9846-1ed87cbfacd4)
 
 preview video
