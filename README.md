@@ -1,4 +1,4 @@
-# Input-Overlay-for-Tekken-7
+# Input-Overlay-T7-themes
 
 Tekken-themed input overlays compatible with univrsal/input-overlay for OBS. Default controls are WASD/arrows for directions/1234. It would probably be easy to add scripts for setting binds.
 
