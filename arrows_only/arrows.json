@@ -1,0 +1,75 @@
+{
+    "default_width": 512,
+    "default_height": 512,
+    "space_h": 3,
+    "space_v": 3,
+    "flags": 0,
+    "overlay_width": 2000,
+    "overlay_height": 1168,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                329,
+                0
+            ],
+            "id": "w",
+            "z_level": 0,
+            "mapping": [
+                1,
+                1,
+                512,
+                512
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                329
+            ],
+            "id": "a",
+            "z_level": 0,
+            "mapping": [
+                516,
+                1,
+                512,
+                512
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                329,
+                674
+            ],
+            "id": "s",
+            "z_level": 0,
+            "mapping": [
+                1031,
+                1,
+                512,
+                512
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                674,
+                329
+            ],
+            "id": "d",
+            "z_level": 0,
+            "mapping": [
+                1546,
+                1,
+                512,
+                512
+            ],
+            "code": 32
+        }
+    ]
+}
