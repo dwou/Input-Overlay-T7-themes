@@ -12,4 +12,4 @@ https://github.com/dwou/Input-Overlay-for-Tekken-7/assets/111612803/4aae88b0-d5b
 
 ## qwerty5 preset (higher res)
 90% opacity in OBS.
-![image](https://github.com/dwou/Input-Overlay-T7-themes/assets/111612803/fac0f070-11d9-48b2-81fb-0c124fb16856)
+![image](https://github.com/dwou/Input-Overlay-T7-themes/assets/111612803/45a91b57-280e-4f00-9b9a-f465c7e68dfb)
