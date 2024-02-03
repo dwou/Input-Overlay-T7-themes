@@ -1,3 +1,5 @@
+*Do note https://github.com/univrsal/input-overlay/issues/174. Key IDs may have to be modified in the jsons for arrow keys etc. for this to work*
+
 # Input-Overlay-T7-themes
 
 Tekken-themed input overlays compatible with univrsal/input-overlay for OBS. Default controls are WASD/arrows for directions/1234. It would probably be easy to add scripts for setting binds. All major presets have a version with black-white-inverted arrows.
